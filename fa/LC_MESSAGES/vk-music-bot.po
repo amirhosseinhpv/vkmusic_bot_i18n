@@ -45,7 +45,7 @@ msgstr ""
 "‏/song —.جستجو با نام آهنگ\n"
 "‏/artist — جستجو با نام خواننده\n"
 "‏/setlang — انتخاب زبان\n"
-"‏/settings — تعقیر تنظیمات"
+"‏/settings — تغییر تنظیمات"
 
 #: handlers/custom.py:28
 msgid "This command can not be used in a group chat, send it as a private message"
@@ -75,7 +75,7 @@ msgstr ""
 "‏/lyrics /text /l — متن ترانه اخرین آهنگ دانلودی\n"
 "‏\n"
 "🌎 زبان\n"
-"‏/setlang — تعقیر زبان\n"
+"‏/setlang — تغییر زبان\n"
 "‏\n"
 "⏬ دانلود همه\n"
 "‏/getall — دانلود همه ترانه های یافت شده\n"
@@ -161,7 +161,7 @@ msgstr "خارج کردن از VK (id %s)"
 
 #: handlers/settings.py:59
 msgid "What would you like to change?"
-msgstr "مایل به تعقیر چه چیزی هستید ؟"
+msgstr "مایل به تغییر چه چیزی هستید ؟"
 
 #: handlers/vk.py:119
 #, python-format
